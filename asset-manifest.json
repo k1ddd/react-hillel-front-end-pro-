@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-hillel-front-end-pro-/static/css/main.073c9b0a.css",
-    "main.js": "/react-hillel-front-end-pro-/static/js/main.9675ee3d.js",
+    "main.js": "/react-hillel-front-end-pro-/static/js/main.3f9afa8e.js",
     "static/media/logo.svg": "/react-hillel-front-end-pro-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-hillel-front-end-pro-/index.html",
     "main.073c9b0a.css.map": "/react-hillel-front-end-pro-/static/css/main.073c9b0a.css.map",
-    "main.9675ee3d.js.map": "/react-hillel-front-end-pro-/static/js/main.9675ee3d.js.map"
+    "main.3f9afa8e.js.map": "/react-hillel-front-end-pro-/static/js/main.3f9afa8e.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9675ee3d.js"
+    "static/js/main.3f9afa8e.js"
   ]
 }
