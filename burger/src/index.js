@@ -1,14 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import "./App.css";
 
-import { Header } from "./components/";
+import { Header, Main, Footer } from "./components/";
 
 const App = () => {
   return (
     <div className="App">
       <Header />
+      <Main />
+      <Footer />
     </div>
   );
 };
