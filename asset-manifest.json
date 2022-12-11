@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/react-hillel-front-end-pro-/static/css/main.073c9b0a.css",
-    "main.js": "/react-hillel-front-end-pro-/static/js/main.42ae1017.js",
-    "static/media/logo.svg": "/react-hillel-front-end-pro-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-hillel-front-end-pro-/static/css/main.a8ea5516.css",
+    "main.js": "/react-hillel-front-end-pro-/static/js/main.e7f7da26.js",
+    "static/media/lettuce.png": "/react-hillel-front-end-pro-/static/media/lettuce.60ed2906ab0cd689912b.png",
+    "static/media/meat.png": "/react-hillel-front-end-pro-/static/media/meat.1a8aa36baa9e6260ab77.png",
+    "static/media/bacon.png": "/react-hillel-front-end-pro-/static/media/bacon.e6a1356d8ffb17259cc8.png",
+    "static/media/cheese.png": "/react-hillel-front-end-pro-/static/media/cheese.1b5c6d241e5cd4d94d79.png",
+    "static/media/pickles.png": "/react-hillel-front-end-pro-/static/media/pickles.831ef382cda5e5130b52.png",
+    "static/media/burgerLogo.svg": "/react-hillel-front-end-pro-/static/media/burgerLogo.53a6abb92fa0c52d611c6997223ff611.svg",
     "index.html": "/react-hillel-front-end-pro-/index.html",
-    "main.073c9b0a.css.map": "/react-hillel-front-end-pro-/static/css/main.073c9b0a.css.map",
-    "main.42ae1017.js.map": "/react-hillel-front-end-pro-/static/js/main.42ae1017.js.map"
+    "main.a8ea5516.css.map": "/react-hillel-front-end-pro-/static/css/main.a8ea5516.css.map",
+    "main.e7f7da26.js.map": "/react-hillel-front-end-pro-/static/js/main.e7f7da26.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.42ae1017.js"
+    "static/css/main.a8ea5516.css",
+    "static/js/main.e7f7da26.js"
   ]
 }
