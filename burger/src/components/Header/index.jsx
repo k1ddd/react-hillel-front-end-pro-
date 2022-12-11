@@ -15,6 +15,7 @@ const Header = () => {
         </nav>
         <nav>
           <a href="#">FAQ</a>
+          
         </nav>
       </div>
     </div>
